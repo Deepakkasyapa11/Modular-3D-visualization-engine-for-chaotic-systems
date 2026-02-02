@@ -32,5 +32,5 @@ The Math: Lorenz AttractorThe system evolves according to the following differen
 
 cd 3d-viz-engine
 
-**Setup Environment**: Bashpip install -r requirements.txt
-**Execute Simulation:** Bashpython main.py
+**Setup Environment**: pip install -r requirements.txt
+**Execute Simulation:** python main.py
